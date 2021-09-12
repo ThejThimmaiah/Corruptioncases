@@ -1,0 +1,45 @@
+PROJECT:- Corruption cases in States/UT of India.
+--------------------------------------------------
+
+Content:-
+
+	1) Purpose
+	2) Workdone
+	3) Conclusion
+	4) Result
+
+Purpose:-
+	
+	1) To know which State/UT in India has highest and lowest number of corruption rate.
+
+
+Workdone:-
+
+	1) READ & CLEANING OF DATA AND FORMATTING IT PROPERLY
+	2) INDEX SETTING
+	3) FINDING TOAL NUMBER OF CASES WITHRESPECT TO STATES
+	4) FINDING THE STATES/UT WHICH ARE PRESENT IN BELOW OF DATA SET
+	5) FINDING THE COLUMNS PRESENT IN DATASET
+	6) FINDING THE MEAN MEDIAN AND MODE VALUES
+	7) FINDING THE MAXIMUM AND MINIMUM NUMBER OF CASES RECORDED
+	8) FINDING OUT WHICH STATE/UT HAS HIGHEST AND LOWEST NUMBER OF CASES
+	9) PLOTTING BAR AND PIE GRAPH
+	10) USING PAIR PLOT TO SHOW THE RELATION BETWEEN ALL VARIABLE
+ 
+
+Conclusion:-
+
+	1) My data set have the records of corruption crimes with respect to their states/UT
+
+	2) From the above analysis i have concluded that the highest number of corruption cases is recorder in Rajasthan and lowest number of corruption cases is recorded in D & N Haveli. Rajasthan has about 14.40% of recorded crimes in India and D & N Haveli have over 0.03% of recorded crimes. Which makes Rajasthan as Indian state have more rate of crimes recorded and D & N Haveli has less rate of crime recorded in India.
+
+	3) Also Rajasthan has the highest rate of cases which are still pending and D & N Haveli and Daman and Diu has less rate of cases pending.
+
+	4) Whereas Maharastra has the highest number of cases reported this year which is 891 cases and there are 3 states with 0 cases reported in this year, the states are Sikkim, D & N Haveli and Daman & Diu.
+
+	5) According to my data set analysis there are 17 States/UT which has recorded more than 200 cases.
+
+Result:-
+	1) After my analysis I have found that Rajasthan, Maharastra, Karnataka, Kerala and Odisa(14.40%-7.21%) has the highest number of corruption crimes.
+
+	2) It also shows that the state/UT like Sikkim, D & N Haveli and Daman & Diu(0.03%-0.34%) is heading towards Zero corrupyion rates.
